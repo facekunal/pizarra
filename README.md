@@ -1,5 +1,5 @@
 # pizarra
-**PIZARRA** is a blocks balancing game for iOS and droid.
+**PIZARRA** is a block balancing game for iOS and droid.
 
 *Screenshots*
 
